@@ -29,6 +29,7 @@ gem 'jquery-rails', '2.0.0'
 group :test do
   gem 'capybara', '1.1.2'
   gem 'webrat', '0.7.1'
+  gem 'spork', '0.9.0'
 end
 
 group :production do
